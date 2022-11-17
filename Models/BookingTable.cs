@@ -1,4 +1,6 @@
-﻿namespace OnlineMovieTicketBooking.Models
+﻿using System.ComponentModel.DataAnnotations.Schema;
+
+namespace OnlineMovieTicketBooking.Models
 {
     public class BookingTable
     {
