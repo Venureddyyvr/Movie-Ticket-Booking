@@ -138,3 +138,5 @@ C:\Users\2110870\OneDrive - Cognizant\Desktop\Movie Ticket App Project\Movie-Tic
 C:\Users\2110870\OneDrive - Cognizant\Desktop\Movie Ticket App Project\Movie-Ticket-Booking\obj\Debug\net6.0\OnlineMovieTicketBooking.pdb
 C:\Users\2110870\OneDrive - Cognizant\Desktop\Movie Ticket App Project\Movie-Ticket-Booking\obj\Debug\net6.0\OnlineMovieTicketBooking.genruntimeconfig.cache
 C:\Users\2110870\OneDrive - Cognizant\Desktop\Movie Ticket App Project\Movie-Ticket-Booking\obj\Debug\net6.0\ref\OnlineMovieTicketBooking.dll
+C:\Users\2110870\OneDrive - Cognizant\Desktop\Movie Ticket App Project\Movie-Ticket-Booking\bin\Debug\net6.0\FileUploadControl.dll
+C:\Users\2110870\OneDrive - Cognizant\Desktop\Movie Ticket App Project\Movie-Ticket-Booking\bin\Debug\net6.0\FileUploadControl.pdb
